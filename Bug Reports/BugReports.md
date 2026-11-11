@@ -68,7 +68,6 @@ Authentication behavior is inconsistent when using Google sign-in and email/pass
 The application should handle existing accounts consistently, display an appropriate message when an email is already registered, and send an email verification message when required.
 
 **Actual Result:**
-
 - Email/password login displayed an "Invalid credentials" message.
 - The registration flow did not provide a clear duplicate-account warning.
 - No email verification message was received.
@@ -107,7 +106,6 @@ Shopping cart items are not consistently retained after refreshing or restarting
 All previously added products should remain in the shopping cart after refreshing or restarting the application.
 
 **Actual Result:**
-
 - Some products remained after refreshing.
 - Newly added products disappeared after another refresh.
 - Cart items were lost after restarting the application.
@@ -213,7 +211,6 @@ The address form has accessibility problems in landscape mode and can close unex
 The form should allow users to access all fields through scrolling or proper layout adjustment. It should not close unexpectedly without warning or confirmation.
 
 **Actual Result:**
-
 - The form does not support scrolling properly in landscape mode.
 - The form closes when the user taps outside it.
 - Entered information may be lost.
