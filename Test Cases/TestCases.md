@@ -501,11 +501,11 @@
 
 | Result | Number of Test Cases |
 |---|---:|
-| Passed | 4 |
-| Failed | 16 |
+| Passed | 5 |
+| Failed | 15 |
 | Not Executed | 0 |
 | **Total** | **20** |
 
-**Overall Result:** 20 test cases were documented based on the manual exploratory testing performed on the Navch Android application. Four test cases passed, while sixteen failed due to the issues identified during testing.
+**Overall Result:** A total of 20 test cases were evaluated during manual testing of the Navch Android application. Five test cases passed, while fifteen failed due to the issues identified during testing.
 
-**Note:** Some test cases are related to the same reported bug. The related bug IDs are included to connect test results with the corresponding bug reports.
+**Note:** Some test cases are related to the same reported bug. The related bug IDs connect test results with their corresponding bug reports.
