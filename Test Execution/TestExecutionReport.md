@@ -38,8 +38,8 @@ A total of 20 test cases were documented and evaluated.
 
 | Test Result | Total | Percentage |
 |---|---:|---:|
-| Passed | 4 | 20% |
-| Failed | 16 | 80% |
+| Passed | 5 | 25% |
+| Failed | 15 | 75% |
 | Not Executed | 0 | 0% |
 | **Total** | **20** | **100%** |
 
