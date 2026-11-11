@@ -37,26 +37,26 @@ Testing activities included:
 - Identifying and documenting defects.
 - Summarizing testing results.
 
-## Project Structure
+## Project Documentation
 
-| Folder / File | Description |
+| Document | Description |
 |---|---|
-| `Test Plan/` | Testing objectives, scope, and approach |
-| `Test Scenarios/` | High-level test scenarios |
-| `Test Cases/` | Detailed test cases and expected results |
-| `Test Execution/` | Test execution summary and results |
-| `Bug Reports/` | Documented application defects |
+| [Test Plan](Test%20Plan/TestPlan.md) | Testing objectives, scope, and approach |
+| [Test Scenarios](Test%20Scenarios/TestScenarios.md) | High-level test scenarios |
+| [Detailed Test Cases](Test%20Cases/TestCases.md) | Detailed test steps and expected results |
+| [Test Execution Report](Test%20Execution/TestExecutionReport.md) | Test execution summary and results |
+| [Bug Reports](Bug%20Reports/BugReports.md) | Documented application defects |
 
 ## Testing Results
 
-A total of 20 test cases were documented.
+A total of 20 test cases were documented and evaluated.
 
-| Result | Total |
-|---|---:|
-| Passed | 5 |
-| Failed | 15 |
-| Not Executed | 0 |
-| **Total** | **20** |
+| Result | Total | Percentage |
+|---|---:|---:|
+| Passed | 5 | 25% |
+| Failed | 15 | 75% |
+| Not Executed | 0 | 0% |
+| **Total** | **20** | **100%** |
 
 **Defects Identified:** 10
 
@@ -69,6 +69,8 @@ The main issues identified during testing included:
 - Unresponsive payment options.
 - Incorrect checkout navigation.
 - Profile information not being retained after restarting the app.
+
+**Additional Improvement Suggestion:** Add an option to delete saved addresses.
 
 ## Skills Demonstrated
 
