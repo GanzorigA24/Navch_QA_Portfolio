@@ -14,10 +14,10 @@
 
 | Scenario ID | Test Scenario | Priority |
 |---|---|---|
-| TS-001 | Verify that users can sign in using valid Google account credentials. | High |
-| TS-002 | Verify that the application handles login attempts using an existing Google account email and password. | High |
+| TS-001 | Verify that users can sign in using a valid Google account. | High |
+| TS-002 | Verify how the application handles login attempts using an existing Google account email and password. | High |
 | TS-003 | Verify that users cannot register multiple accounts using the same email address. | High |
-| TS-004 | Verify that email verification is handled correctly during registration. | High |
+| TS-004 | Verify that the application sends an email verification message when required during registration. | High |
 
 ## 2. Product Selection and Shopping Cart
 
@@ -35,7 +35,7 @@
 |---|---|---|
 | TS-010 | Verify that users can add a new address with valid information. | High |
 | TS-011 | Verify that newly saved addresses appear immediately in the address list. | Medium |
-| TS-012 | Verify that the address form validates invalid phone number inputs. | High |
+| TS-012 | Verify that the address form validates invalid phone number inputs without crashing. | High |
 | TS-013 | Verify that the address form remains usable in landscape orientation. | Medium |
 | TS-014 | Verify that the address form handles accidental dismissal without unexpected data loss. | Medium |
 
@@ -70,8 +70,8 @@
 
 ## 7. Conclusion
 
-A total of 20 test scenarios have been identified for the Navch Android application.
+A total of 20 test scenarios were identified for the Navch Android application.
 
 These scenarios cover the application's main user workflows, including authentication, product selection, shopping cart functionality, address management, checkout, payment, and profile management.
 
-The scenarios will be used as the foundation for creating detailed test cases and executing functional tests.
+The scenarios were used as the foundation for creating detailed test cases and evaluating the application's functionality during manual testing.
