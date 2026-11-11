@@ -13,9 +13,9 @@
 
 ## 1. Introduction
 
-This document describes the test plan for the Navch Android application. The purpose of this project is to evaluate the application's functionality, usability, and reliability through manual testing.
+This document describes the test plan for the Navch Android application. The purpose of this project is to evaluate the application's functionality and usability through manual testing.
 
-Exploratory testing was performed to identify potential defects and issues in different parts of the application. The findings from this testing will be used to create structured test scenarios, detailed test cases, and bug reports.
+Exploratory testing was performed to identify potential defects and issues in different parts of the application. The findings from this testing were used to create structured test scenarios, detailed test cases, and bug reports.
 
 ## 2. Testing Objectives
 
@@ -67,7 +67,7 @@ The project uses manual testing techniques to evaluate the application's behavio
 
 ### 4.1 Exploratory Testing
 
-Exploratory testing is performed without following predefined test cases. The tester explores application features, interacts with different elements, and identifies unexpected behavior.
+Exploratory testing was performed without following predefined test cases. The tester explored application features, interacted with different elements, and identified unexpected behavior.
 
 ### 4.2 Functional Testing
 
@@ -80,10 +80,6 @@ Negative testing checks how the application handles invalid inputs, unexpected a
 ### 4.4 UI Testing
 
 UI testing evaluates the application's layout, visibility, responsiveness, and usability.
-
-### 4.5 Regression Testing
-
-Regression testing checks whether previously identified issues or affected functionality continue to behave correctly after changes.
 
 ## 5. Test Environment
 
@@ -99,15 +95,13 @@ Regression testing checks whether previously identified issues or affected funct
 
 ## 6. Test Deliverables
 
-The following documents and materials will be produced:
+The following documents were created as part of this project:
 
 1. Test Plan
 2. Test Scenarios
 3. Detailed Test Cases
 4. Bug Reports
 5. Test Execution Report
-6. Test Evidence (Screenshots)
-7. Final Test Summary Report
 
 ## 7. Entry Criteria
 
@@ -120,14 +114,13 @@ Testing can begin when:
 
 ## 8. Exit Criteria
 
-Testing will be considered complete when:
+Testing is considered complete when:
 
 - Planned test scenarios have been documented.
-- Detailed test cases have been created and executed where possible.
+- Detailed test cases have been created and evaluated.
 - Identified defects have been documented.
 - Test execution results have been recorded.
-- Available screenshots and evidence have been organized.
-- A final test summary report has been prepared.
+- The test execution report has been completed.
 
 ## 9. Risks and Limitations
 
@@ -144,6 +137,6 @@ Potential risks and limitations include:
 
 This test plan establishes the scope, objectives, approach, and environment for testing the Navch Android application.
 
-The project aims to demonstrate practical manual QA testing skills through exploratory testing, functional testing, test case development, defect documentation, and test execution reporting.
+The project demonstrates practical manual QA testing skills through exploratory testing, functional testing, test case development, defect documentation, and test execution reporting.
 
-The results will be organized and maintained in this GitHub QA portfolio.
+The results are organized and maintained in this GitHub QA portfolio.
